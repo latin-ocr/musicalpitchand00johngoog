@@ -1,0 +1,48 @@
+36
+
+ἐμμελῆ)ι is very small compared with the number of inter·
+vals possible,² it does not seem unreaaonable to hope that one
+or other of them, or some aliquot part, may serve our purpose.
+
+Suppose, now, that we represent pitch bya straight line,
+and that equal distances on the line stand for equal intervals,
+wherever taken. If then we arbitrarily ehoose a certain
+length on the line to represent any given interval, such aa ¹the
+Octave,³.it will, of course, be possible to find distances which
+will accurately represent all other intervals. The sum of two
+such dbtanoes will then represent the sum of the two corre-
+sponding intervals, obtained by making the acute note of one
+of them coincide with the grave note of the other. In like
+manner the arithmetioal differenoe of any two distances will
+represent the differenoe of the corresponding intervals, obtained
+by making the two acute notes or the two grave notes coincide.
+
+¹See above, p. 30.
+
+’Compare Sedley Taylor, stata Sicpinp, dl 11, 12, where it is stated that
+within the compass of an average voice, two or three hundred different ’
+degrees of pitch are distinguishable. If the compass of such a voice is taken
+to be an octave and a fifth (cp. eit. ἓ 74), only twenty of these different pitches
+are found on our keyed instrumente, where temperament prevaila. This
+number is considerably increaaed in practice, when temperament is ignored‚
+aa in singing end violin music, but even then the number of notes to the
+octave is comparatively small. It must be rememhered that in those corn·
+putatione in which it is found that a perfect keyed instrument would have
+to have twenty-five or more keys within each octave, many of these notes
+are incompatible (so to speak) with one another (ἐκμελεῖς). Belonging to ·
+remotely related keys, they do not occur in one and the same pieee of music,
+and are often so close aa to be almost indistinguishable in pitch. Itis
+equally true of Greek music, that, althougha large number of notes within
+each octave was recognized, they were not all of them usable in the same
+pieca of musio. Aristoxenus (Hunc, p. 28 Meih.) is our authority for the
+statement that the voice cannot advance by quarter·tones beyond the second
+step. The number of notes used at one time was never many more than
+eight within the octove.
+
+³Following the example of Mr. A. J. Ellis in his translation of Helm-
+holtz’s &metiens os Torta, and. Eng. ed, 1885, the names of intonata will
+hereafter be written with capital initial letters, as Fifth, Major-third,
+Semitone.
+
+ 
+

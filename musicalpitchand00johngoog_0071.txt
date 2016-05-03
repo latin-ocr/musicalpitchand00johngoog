@@ -1,0 +1,42 @@
+56
+
+The areas of the four compartments will then be 6, 8, 9, and
+12 (sum, 35): 3 4
+
+These numbers eontain the arithmetica] progression 6-9—
+12 and the harmonical progression 6-8-123 in the former
+we have the ratio of the Fisth (223) followed by thet of the
+Fcurth (324), in the latter, the order is reversed, while the
+
+ratio of the extremes is thet of the Octave (122), and the
+ratio of the two means is that of the Tone (8 :9). Διὰ τοῦτο
+καὶ ἁρμονίαν τὸν περιέχοντα τοὺς λόγους τούτους ἀριθμὸν
+ἐκάλεσαν (loc. cit, 1018 Β). The musical notes correspond-
+ing to these numbers are: ὑπάτη-μέση-πορομέση-νήτη,
+the intervals between them being Fourth, Tone, Fourth.¹
+
+Plutarch next multiplies like powers of 2 and 3(chapter
+13, 1018 B, sq.). The products, 6, 36, and 216, are, of course,
+the first, second, and third powers of 6. In commenting on
+these numbers, the remark is made that 36 is the smallest
+number which is at once a square and a triangle, for it is
+the square of 6 and the triangle² of 8 (τρίγωνος ἀπὸ τῆς
+
+¹This Pythagorean ‘harmony’ of four notes is supposed to have been
+discovered by the philosopher on his famous visit to the smithy, when he
+noticed that the hammers used gave notes which formed the various con·
+sonances. On returning home, it is said, he fastened weights proportional
+to those of the hammers to four stringe of equal length, and thus obtained
+the four notes of the harmony. cf. lamblichus, Itys os Pythagoraa, xxvr.
+(117) sq.; Plutarch, de musica, c. 22, 1138 0, sq.; c. 23, 1139 Β, sq. The
+four notes stand at the same intervals from one another aedo the tonic,
+subdominant, dominant, and tonic again, in modern music. The arith·
+metical progression gives the dominant, and the harmonical progressior
+(so called sor this reason) gives the subdeminant.
+
+'On triangular numbers, see Theo Smyrn, dc rabac math. etc, p. 33 Hiller
+(= dc crt'ttrretica, c. 19), and p. 37, t, sq. (c. 23). The number in question,
+36, is the sum of 1, 2, 3, 4, t, 6, 7, and 8.
+
+ 
+

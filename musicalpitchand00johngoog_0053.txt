@@ -1,0 +1,43 @@
+38
+
+and not, of course,to add them, it follows that the aum of
+two intervals cannot be obtained by direct addition of their
+
+ratios, nor are ratios so related that a common constituent can
+be found which could serve as a measure of their relative sine.
+“ If we wish to have a measure of intervals in the proper
+sense, we must take, not the characteristic ratio itself, but the
+logarithm of that ratio. Then, and then only, will the measure
+ofa compound interval be the sum of the mensures of the
+components‚'' ¹ and when this has been done all the logarithms,
+with a few exceptione, will be found to be incommensurable.
+But of course, the sine of any interval can be calculated to
+any required degree of accuracy.
+
+This great fact of the incommensurability of musical inter-
+vals was known to the Greeks. It was recognized to be true
+both practically and theoretically. The eleventh chapter of
+the first book of Ptolemy's Haemonios contains first a mathe-
+matical demonstration that six Tones exceed an Octavo, and
+the amount of this excess, it is then stated, is pereeptihle eveo
+to the eor. Earlier writers than Ptolemy prove mathematically
+that six Tones exceed an Octave by an interval (called the
+Pythagorean Comma) whose ratio is talasa ε 531,441. Since
+this excess is slightly larger than the Comma cf Didymus
+(80 ε 81) which is the differenoe between the Major and the
+Minor Whole-tone (or between the true or just Major-third
+and the Pythagorean Major-third), Ptolemy's statement is not
+in the least incredible. All the difficulties sought to be obvi-
+ated by the device of equal temperament arise from small
+intervals, which are rarely larger than the Comma (80 r 81)
+by even a quarter of its aize. If such intervals are felt by
+moderas, we cannot deny to the ancients ability to perceive
+small intervals of the same sine. The existence ,of Quarter·
+tones at one period, at least, in the development of Greek
+music, points to a high degree of cultivation among the
+ancients of the feeling for pitch-differences.
+
+¹Lord Rayleigh, Tre Τ leory os Sotad (1894),v01. 1, p. 7.
+
+ 
+

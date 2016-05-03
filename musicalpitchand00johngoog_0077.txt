@@ -1,0 +1,47 @@
+62
+
+as proportional to the lengths of the vibrating stringe or, in
+modern manner, tu the vibration-numbers of the notes.l On
+the other hand, they connected the result (13, the sum of the ‘
+equares) with a particular ratio, which they used to express a
+certain interval occurring in their scales. The fact that the
+numbers concerned in these operatione oen be dealt with in
+this way is the merest coincidence. It is nothing more than
+an arithmetical accident (to call it such) that the sum of the
+equares should equal the differenoe between 256 and 243, or
+that the sum of the cubes should also be the sum of 6, 8, 9,
+and 12, numbers in which an arithmetioal and an harmonioal
+progressior can be found. But such is the state of affairs.
+
+It remains that we should consider the sum of the first
+putere, the number 5, which the Pythagoreans called τροφόν,
+according to the passage from Plutarch quoted on p. 55. So
+far as Iam aware, no explanation has ever been given for
+this number, beyond what is contained in Plutarch’s words.
+They are (de cuim. proca, o. 12, 1017 F): οἱ Πυθαγορικοὶ
+
+τὰ μὲν ε’ τροφόν, ὅπερ ἐστὶ φθόγγον, ἐκάλουν, οἰόμενοι τῶν
+
+τοῦ τόνου διαστημάτων πρῶτον εἶναι φθεγκτὸν τὸ πέμπτον.
+The following seems to meto be the solution of the problem.
+Using the same apparatus as we had in the experiment just
+described, if we measure off 5 of the 256 equal parts and stop
+the string at that point, we obtain a small interval about
+a third of a Semitone in size.² This interval I believe to
+
+¹It is immaterial whether we run up the scale or down, since the three
+intervals are symmetricolly arranged (an epitrita ratio on either side of the
+epogdobn).
+
+’An idea ot the width of this interval may be gained without the trouble
+of dividing a string into 256 parts After sounding the open string of an
+instrument lihe the violin, play as accurately as possible, by ear, a note at
+the interval of a Semitone to the acute, by pressing on the string with the
+finger, divide the piece of striug cut oti for the Semitone into three equal
+parts; then press down the first of the three (that nearest the end of the
+ming), so aa to keep it from vibrating. The remaining string will give
+a note aeuter than the open string hythe interval in question. Since
+our ‘natural’ Semitone is slightly larger than the Pythagoream Leimnrs
+
+ 
+

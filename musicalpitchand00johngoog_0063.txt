@@ -1,0 +1,46 @@
+48
+
+double geometrical quaternion or tetraetys of the Pytha-
+goreans is formed by joining to unity the first three powers
+of2and of 3, thus: 1, 2, 3, 4, 9, 8, 27. This tetractys may
+be arranged so as to exhibit the two branchos consisting of
+powers of 2 and 3, respectively, by making a Lambda,¹ as
+follows: 1
+
+2 3
+
+4 9 ’
+
+8 27
+
+The left branch contains the duple intervals (διπλάσια δια· .
+
+στήματα) and the right one the triple intervals (τριπλάσια
+διαστήματα). Then between the terms of every interval the
+harmonical² and the arithmetieal means are inserted. In this
+way two series are obtained: 1, t, t, 2, t, 3, 4, λθ, 6, 83
+and 1, t, 2, 3, t, 6, 9‚¹÷²‚ 18, 27.
+The successiones intervals in the first series, or lest branch,
+is t, t,t; t, Μ ; 3, tt ; the suecession in the second series,
+or right bramh, is i, Μ i, ἑὼ i, t‚t; that is to say, in
+the first series, the second term is t of the first, the third t of
+the second, etc. The explanation of these series is held by
+commentatore to be that they refer to musical scales. The
+ratios t and t will then correspond to the consonances of the
+Fisth and the Fourth, their product (fixe = l) to the sum of
+these intervals‚ the Octava and their quotient (t -ζ- t = t) to
+the difference, the Tone. The last step in the formation of
+the scales is that by which every interval of 423 was filled
+with intervals of 928 (as many as are contained therein), and
+λείμματα, whose terme are as 256 to 243, the intervals of
+322 being first resolved (by implication) into intervals of 423
+and 928. Seales are therefore formed in which each note
+
+¹Attributed to Crantor (Plutarch, de caiae proca, c 29, 1027 D).
+
+¹The harmonical mean is such that the difference between it and the
+leeser extreme is the same part of the latter as the difference between the
+greater extreme end the harmonieal mean is of that extreme.
+
+ 
+

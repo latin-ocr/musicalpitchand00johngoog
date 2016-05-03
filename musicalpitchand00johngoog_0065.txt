@@ -1,0 +1,47 @@
+50
+
+case, even if thessales are purely numerical scales, they seem
+to have been suggested by musical scales in actual use, and
+may be illustrated and explained by supposing them to be
+musical. We may safely see in the intervals between the
+terme of the series references to the ratios associated with
+musical intervals.
+
+We have in Euclid's sectio emtouu¹ the earliest statement
+in which the ratios² are explicitly given for the musical eon-
+sonances. The first nine theorems (ten in MeibomiuS, Antiquae
+Musicae Auctores Septem) are purely mathematical, dealing
+with the natiue. In 10 (11 Meib.) the author proves that
+the interval διὰ πασῶν is multiple; iu 11 (12) that the διὰ
+τεσσάρων and tat πέντε are each superparticular; in 12 (13-
+15) that the ratio of the διὰ πασῶν is 221, that the ratius of
+
+¹K. v. J an, Massici tessara Gracci, p. 148, sq.
+
+'A sew words ought at this point to be said in explanationes the tech-
+nieal terme used in the arithmetic of the Greeks for various sorte of ratius.
+When the greater termes a ratio was compared with the lesser, and so
+usually preceded it, the ratio was called πρόλογοςς when the lesser was
+compared with the greater, the ratio was called ὑπόλογοο. There was
+also a distinction of three kinds of ratius according as the antecedent was
+greater than, was equal to, or was lese than, the consequent, as in Theo Smyr·
+naeus, οοοοοοοο, ο. aa (ρ. 74 utrisq: πον st λόγον ον μιν aa μείζονες, οι ae “
+ἑλόππονεο, οἱ steca. Equal ratius are those in which the terms are equal,
+oratioe where the first term is greater than the second, five kinds were
+distinguished: λόγοι πολλαπλάσιοι, λ. ἐπιμόροοι, λ. ἐπιμερεῖς, λ. remoram·
+επιμόρονι, and λ. πολλαπλασιεπιμερεῖς. Α multiple ratio is one whose first term
+contains the second an exact number of times (op. cit, c. 23, p. 76,s Hiller);
+a superpartientes ratio is one whose first term contains the second once and
+also an aliquot part of the second (c. 24, p. 76, u); aeupepurts'ent ratio is
+one whose first term contains the second once and also more than one aliquot
+part of the second (c. 25, p. 78, ο), multiplea-superpartientes (c. 26, p. 78, as)
+and multiplea-superpartiens (c. 27, p. 79, u) ratios are like the last two kinds,
+but the first terme contain the second terme more than once, plus a fraction.
+Theon gives a sixth kind (op. cit, c. 28, p. 80, r), namely, λόγος ἀριθμοῦ πρός
+ἀριθμόν (found also in Ptolemy, Hem, 1. ν, p. 10 Wallis). I do not see why
+this is not included under one of the other kinds. The example given is
+the reticos 256 to 243, which is superpartient. The ὑπόλογον have the same
+names as the πρόλογον with the prefix όπο- added, as όποδιπλόσοος.
+
+ 
+

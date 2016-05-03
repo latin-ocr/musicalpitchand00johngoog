@@ -1,0 +1,42 @@
+43
+
+exercised. For in order that two stringe of equal length and
+size shall produce sounds which form some given interval, it
+is necessary to use weigbts which are to each other inversely
+
+as the equares of the lengths of striugs of equal siue at the
+same tension producing the same interval ; in other words,
+the lengths vary inversely as the square-route of the weights.
+The weigbts would not, therefore, give directly the ratios
+desired. It is doubtful if the ancients could have obtained the
+musical ratios from weights attached to stringe. Allowance
+would also have to be made for the fact that the weight of
+the string per linear unit is diminished by the tension.
+Ptolemy appreciated the difficulties attending these methods
+and discusses them in his Harmonice, 1. viii„ p. 17 Wallis.
+The instrument on which the greatest relianoe was placed
+for determining the ratios was the κανὼν μονόχορδος or ἁρμο-
+νικός. Ptolemy describes it in the chapter cited above. It
+consisted of a vibrating string stretchcd between two fixed
+bridges‚ and passing over a third bridge, which could move
+freely between the fixed bridges‚ and thus could be used to
+divide the whole length of the string into two parts at any
+desired point. The distance between the movable bridge and
+the fixed bridges was measured on a scale which ran beneath
+the string. By means of this instrument the ratios associated
+with the various musical intervals could easily be calculated.
+Conversely, if the movable bridge were placed at such a point
+that the distance from one fixed bridge bore a certain ratio to
+the length of the whole string, the interval corresponding to
+tbe ratio could be produced. If the whole length of the string
+were tuned to be in unison with the lowest note of the scale of
+two Octaves, called the Perfect System, the proper distances
+could be marked off for all tbe other notes. This operation
+was called ἡ τοῦ κανόνος κατατομή. We have a description
+of the method in which the string was divided toproduce this
+scale in Theo Smyrnaeus, de munuc, o. 12 (pp. 57, 58 Hillo),
+aud oc. 35, 36 (pp. 87-93 Hiller), where Thrasyllus is quoted
+r'n catenam and in Euclid, sectio cunonis, ἐξ 19, 20 (p. 163, sq.
+
+ 
+

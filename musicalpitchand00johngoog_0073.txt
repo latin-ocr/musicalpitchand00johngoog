@@ -1,0 +1,42 @@
+58
+
+This arithmetical difference varies with the sine of the terme
+which compose the ratio, whereas the siae of the ratio is inde-
+pendent 101 the size 01 tthe terms used in forming it. For
+example, the Fisth rs expressed by any 01 the following 111101,
+2: 3, 6. 9, 100. 150, but the difference' 11 now1‚ now3, now
+50. But t'here rs this to be said, that whereas the ratios of
+1101101 the intervals occurring in music are reducible 10 ratios
+whose arithmet ical difference rs 1, or occasionally 2, the ratio
+01 the Leimma cannot be reduced to any lower terms than
+2432256, and the differenoe will therefore always be either
+13 ora multiple 01 13.
+
+Το show how 27 could be regarded as representing the siae
+of the Tene, we must turn again 10 the scales in 1111111111
+constructed on the double geometrical quaternion. When the
+duple and triple intervals which characterize the two branches
+are filled up with arithmetical and harmonica] means, the
+series obtained involve fractional numbers (see the series given
+on p. 48), and when every epitrite ratio (3 :4)is filled up with
+epogdoa (8 : 9), as far as possible, leaving Leimmata, the new
+terme to be inserted necessitate the use of inconveniently large
+numbers in expressing the improper fractione which result.
+To avoid 'these fractione, we may follow the example of the
+ancient commentatore, and multiply all the terme 01 the series
+by the same number, so as 10 obtain whole numbers alone in
+which 10 express the ratios. The first four terms of the binary
+branch, 1, 1, 1, 2, become 6, 8, 9, 12, when multiplied by the
+least· common multiple of the denominators of the fractione.
+If now we take the first interval in the series, the ratio 314,
+and proceed to insert two intervals of 8 29, we must multiply
+the terme of the ratio by 8². This gives 3>< 8² ε 4 >< 8²=
+192 : 256, and we have the following series after inserting the
+epogdoa: 192 (Tene) 216 (Tone) 243 (Leimma) 206 3 and if we
+take the arithmetica] differences, we obtain:
+for the Leimma, 256-243=13,
+and for the two Tones, 243-216 =27,
+and 216-192=24.
+
+ 
+

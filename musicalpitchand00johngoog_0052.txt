@@ -1,0 +1,47 @@
+at
+
+The question before us is then equivalent to the followingt
+Are these linear distanoes commensurable or incommensu-
+rable?¹ The answer must here be given without proof,
+although its truth is susceptible of mathematical demonstra-
+tion. It is that not one of the more usual intervals found in
+actual music is commensurable with any other, nor is it possible
+to find an interval of any siae that will not be incommensu-
+rable with almost every interval which, from its occurrence in
+music, we might desire to measure.
+
+Intervals like the Octavo, Fisth, Major-tone, etc, which the
+ear recognizes as having a special claim to a name and place
+in every musical system, are all incommensurable with one
+another. No two distances (on the line cf pitch) corresponding
+to intervals of actual occurrence in natural music can be ex-
+pressed in terms of a common unit.² Nor can any distance
+be discovered, however small or large, which will serve our
+purpose with any greater success.
+
+The cause for thia state of affairs is found in the well-known
+fact that all intervals are expressible in terms of ratios, which
+
+are derived from physical phenomena. As has been noticed
+before (p. 14), pitch depends on the number of vibrations of
+the air generated in any period of time by the cause of the
+sound. The ratio between the vibration-numbers of two
+notes expresses the siae of the interval. Since, now, to com-
+pound two ratios it is necessary to multiply them together,
+
+¹Two quantities are commensurable when there is a third quantity which
+is contained an exact number of times in each.
+
+’One or two evident exceptione need cause no trouble in accepting tha
+essential truth of this doctrine. The Double Oetave and the Double Fifth
+(= Octavo -Ι- Major-tone), for example, are obviously twice the siae of the
+single Octava and Fifth, respectively. Again, after selecting a unit (for
+example, the Tone) nothing can prevent us from commentato intervals cf
+twice or any number of times the siae, as the Pythagorean Major-third
+(see below, p. 38); but the resulting intervals in this latter case are not
+truly musical intervals, but are generally approximatione to natural inter·
+
+vals. Of this more will be said on p. 47.
+
+ 
+
